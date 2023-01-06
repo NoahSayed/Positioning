@@ -1,0 +1,30 @@
+.images4{
+    position: relative;
+    left: 400px;
+    justify-content: center;
+    width: 100%;
+    min-height: 400px;
+    background-color: red;
+    }
+    .imagesbox{
+        display: grid;
+        place-items: center;
+        grid-template-columns: repeat(2, 1fr);
+        width: 50%;
+  background-color: green;
+    }
+.h1images4{
+  height: 40px;  
+  
+}
+.smallimage{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+   margin: 20px;
+    width: 300px;
+}
+.jojo{
+    position: relative;
+    left: 600px;
+    bottom: 400px;
+}
